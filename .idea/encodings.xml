@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/AppLauncherManagement/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AppLauncherManagement/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CommonConstantsManagement/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CommonConstantsManagement/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DashboardFrameManagement/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DashboardFrameManagement/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DashbordManagement/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DashbordManagement/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FormManagement/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FormManagement/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MyJDBCmanagement/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MyJDBCmanagement/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
